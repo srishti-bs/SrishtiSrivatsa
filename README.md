@@ -19,7 +19,9 @@
 </div>
 
 <div align="center">
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srishti-bs&theme=tokyonight)
+
 </div>
   
 <h2 align="center">🐍 Contribution Snake</h2>
