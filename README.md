@@ -20,6 +20,8 @@
 
 <div align="center">
 
+## 🔥 GitHub Streak
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srishti-bs&theme=tokyonight)
 
 </div>
