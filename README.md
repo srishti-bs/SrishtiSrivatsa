@@ -17,7 +17,11 @@
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=srishti-bs&show_icons=true&theme=tokyonight)
 
 </div>
+<h2 align="center">🔥 GitHub Streak</h2>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=srishti-bs&theme=tokyonight" />
+</p>
 
   
 <h2 align="center">🐍 Contribution Snake</h2>
