@@ -10,10 +10,11 @@
 - CSS
 - C
 
-  
-## 📊 GitHub Stats
+  <h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srishti-bs&show_icons=true&theme=tokyonight" />
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=srishti-bs&show_icons=true)
 
   
 <h2 align="center">🐍 Contribution Snake</h2>
