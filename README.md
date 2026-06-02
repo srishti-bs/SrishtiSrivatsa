@@ -9,12 +9,9 @@
 - HTML
 - CSS
 - C
+## 📊 GitHub Stats
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://github.com/srishti-bs/srishti-bs/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=srishti-bs&show_icons=true&theme=tokyonight)
 
 
   
