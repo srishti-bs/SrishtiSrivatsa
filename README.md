@@ -9,11 +9,14 @@
 - HTML
 - CSS
 - C
-<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srishti-bs&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=srishti-bs&show_icons=true&theme=tokyonight" />
+
+</div>
 
 
   
