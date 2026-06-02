@@ -14,7 +14,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=srishti-bs&show_icons=true&theme=tokyonight" />
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=srishti-bs&show_icons=true&theme=tokyonight)
 
 </div>
 
