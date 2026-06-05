@@ -12,11 +12,11 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+<h2 align="center">🔥 GitHub Streak</h2>
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=srishti-bs&show_icons=true&theme=tokyonight)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=srishti-bs&theme=tokyonight&hide_border=true" />
+</p>
 
 <div align="center">
 
